@@ -1,0 +1,10 @@
+
+{
+  "name": "com.badger.streamredirect",
+  "description": "Redirects stream to streamlink",
+  "path": "Debug/stream_redirect.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
+  ]
+}

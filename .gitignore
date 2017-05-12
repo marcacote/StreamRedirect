@@ -1,0 +1,10 @@
+/third_party/
+
+#Visual Studio artifacts
+/StreamRedirectNative/Debug/
+/StreamRedirectNative/Release/
+/StreamRedirectNative/StreamRedirect/Debug/
+/StreamRedirectNative/StreamRedirect/Release/
+*.opendb
+*.sdf
+.vs
